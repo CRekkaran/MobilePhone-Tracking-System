@@ -1,0 +1,3 @@
+class LinkedListOutofBoundsException extends Exception {
+
+}
